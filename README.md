@@ -11,9 +11,9 @@ A simple car tracking demo based on BGS using Python and OpenCV
     
     optional arguments:   
     -h, --help
-			    show this help message and exit   
+		show this help message and exit   
     -v VIDEO, --video VIDEO 
-			    path to input video file   
+		path to input video file   
     -t TRACKER, --tracker TRACKER
                 OpenCV object tracker type (csrt, kcf, boosting, mil, tld, medianflow, mosse)   
     -r RECORD, --record RECORD
